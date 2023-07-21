@@ -1,4 +1,3 @@
-# project_1
 ![1](https://github.com/eunjineeee/project_1/assets/131751582/90e5c7ac-9f33-42ae-9c57-79e2bba61de6)
 ![2](https://github.com/eunjineeee/project_1/assets/131751582/04336e1b-edd3-44e8-890e-d025c0b1ee0b)
 ![3](https://github.com/eunjineeee/project_1/assets/131751582/1a232f16-191d-4662-b0f0-4c2a97551845)
